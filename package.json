@@ -1,6 +1,6 @@
 {
   "name": "express-ipv4",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Node Express middleware to automatically convert IPv4-mapped IPv6 addresses to their IPv4 couterpart for each request.",
   "main": "index.js",
   "scripts": {},

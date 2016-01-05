@@ -1,0 +1,26 @@
+{
+  "name": "express-ipv4",
+  "version": "0.0.0",
+  "description": "Node Express middleware to automatically convert IPv4-mapped IPv6 addresses to their IPv4 couterpart for each request.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliatsis/express-ipv4.git"
+  },
+  "keywords": [
+    "express",
+    "ip",
+    "ipv4",
+    "ipv6"
+  ],
+  "author": "Anthony Liatsis <anthony.liatsis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliatsis/express-ipv4/issues"
+  },
+  "homepage": "https://github.com/aliatsis/express-ipv4#readme",
+  "dependencies": {
+    "ipaddr.js": "~1.0.5"
+  }
+}
